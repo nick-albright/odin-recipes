@@ -1,3 +1,58 @@
 body{
     background-color: whitesmoke;
 }
+h1{
+    color:brown;
+}
+
+h2 {
+    color: green;
+}
+
+li {
+    font-family: 'Comic-Sans', 'Times New Roman', Arial;
+    font-weight: bold;
+    color: blue;
+    font-size: 16px;
+}
+
+li::marker{
+    color: red;
+    font-size: 1.5em;
+}
+
+image {
+    width: 300;
+    height: auto;
+}
+
+.homeDiv {
+    padding: 10px;
+}
+
+.recipe {
+    background-color: aquamarine;
+}
+
+.ingredients{
+    background-color: yellowgreen;
+}
+
+.steps{
+    background-color: greenyellow;
+}
+
+
+.container {
+    background-color: green;
+
+}
+.content{
+    background-color: yellow;
+
+}
+
+.nav-home {
+    font-size: 30px;
+    padding: 20px
+}
